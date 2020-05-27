@@ -1,0 +1,8 @@
+Pierwsza liczba to liczba wierzchołków.
+Druga liczba to liczba krawędzi.
+Trzecia liczba to numer wierzchołka wejściowego.
+Każda kolejna trójka to definicja krawędzi.
+Są to kolejno liczby oznaczające:
+1. wierzchołek, z którego poprowadzona jest krawędzi.
+2. wierzchołek, do którego poprowadzona jest krawędź.
+3. waga wierzchołka.
